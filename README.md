@@ -9,7 +9,7 @@ To use this API, follow the steps below:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/vipevel/book-library-apis.git
+git clone https://github.com/VipEvel/book-library-apis.git
 ```
 
 2. Navigate to the project directory:
